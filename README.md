@@ -2,8 +2,10 @@
 CSITTeam018
 
 # Team Name :-  
+CodeCrafters
 
 # Team Idea :- 
+Spotify Clone
 
 # Team Members :- 
 1. Ashok Kaji        **ashokkaji26**   ashokkaji77@gmail.com        LCS2023018
